@@ -26,7 +26,7 @@ main{
     color: #ffffff;
     border-top: none;
     border-left: none;
-    margin: 4rem 20rem;
+    margin: 4rem 0 0 20rem;
     font-size: 1.5rem;
     border-color: #35625c;
     cursor: pointer;
@@ -49,8 +49,8 @@ main{
 }
 
 img{
-    width: 12rem;
-    height: 5rem;
+    width: 6rem;
+    height: 7rem;
 }
 
 .author{
@@ -60,4 +60,5 @@ img{
     float: right;
     font-size: 1.4rem;
     font-weight: 500;
+    margin-top: 1.5rem;
 }
