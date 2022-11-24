@@ -7,14 +7,14 @@ An implementation of A Tip Calculator with HTML/CSS
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/Tip_calculator.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/Random_Quote.git
 
 # Tech/framework used
 HTML
 CSS
 
 # Demo
-[preview]()
+[preview](https://thriving-flan-5891a1.netlify.app)
 
 
 # Contact
